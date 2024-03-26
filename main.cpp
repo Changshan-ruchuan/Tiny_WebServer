@@ -3,7 +3,7 @@
 int main(int argc, char* argv[]) {
     /* 需要修改的数据库信息，登录名，密码，库名 */
     string user = "root";
-    string passwd = "yetao1996";
+    string passwd = "123456";
     string dataBaseName = "webserver";
 
     /* 命令行解析 */
